@@ -10,11 +10,13 @@
     <div class="container-wrap">
         <div class="container-navbar">
             <div class="container-infor">
-                <div class="logo"></div>
+                <div class="logo-size"><div class="logo"><img src="" alt=""></div></div>
                 <div class="search">
-                    <input type="text">
+                    <input placeholder="Bạn cần tìm phụ kiện gì?" style="margin: 5%; width: 30em; height: 20px;" id="thanhtimkiem" type="text">
                 </div>
-                <div class="infor"></div>
+                    <div class="infor"> <div class="sdt"> 0123456789</div> 
+                    <div class="mail"><p>aaa@gmail.com</p></div>
+                </div>
             </div>
             <div class="container-pk">
                 <div class="pk-didong"></div>
