@@ -7,7 +7,25 @@
 </head>
 <body>
     <div class="container-wrap">
-        Hi, chào mừng quay lại trang yohoho
+        <div class="container-navbar">
+            <div class="container-infor">
+                <div class="logo"></div>
+                <div class="search"></div>
+                <div class="infor"></div>
+            </div>
+            <div class="container-pk">
+                <div class="pk-điong"></div>
+                <div class="pk-laptop"></div>
+                <div class="thietbimang"></div>
+                <div class="thietbi-luutru"></div>
+                <div class="pk-khac"></div>
+            </div>
+
+        </div>
+        <div class="container-content">
+            <div class="content"></div>
+        </div>
+        <div class="container-footer"></div>
     </div>
 </body>
 </html>
